@@ -3,18 +3,18 @@ Tool for simple hashing, base64 encoding and decoding using python.
 
 ## Installation
 
-git clone https://github.com/Fl0at1ngCaT/HEDTool.git
+- git clone https://github.com/Fl0at1ngCaT/HEDTool.git
 
-cd HEDTool
+- cd HEDTool
 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 
 ## Usage
 
-Python HEDTool.py [-h] [-x HEX] [-t TEXT] [-e] [-d] [-v | -q]
+        Python HEDTool.py [-h] [-x HEX] [-t TEXT] [-e] [-d] [-v | -q]
 
-options:
+### options:
 
         -h, --help            show this help message and exit
 
@@ -32,7 +32,9 @@ options:
 
 
 
-Example: python HEDTool.py -h
+### Example: 
+
+         python HEDTool.py -h
 
          python HEDTool.py -x md5 -t Hello
 
@@ -45,4 +47,6 @@ Example: python HEDTool.py -h
 
 If you want to include spaces in your -t input, use double quote or single quote
 
-Example: python HEDTool.py -x sha1 -t 'Hello World'
+### Example: 
+
+        python HEDTool.py -x sha1 -t 'Hello World'
