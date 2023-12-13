@@ -1,13 +1,15 @@
 # HEDTool
-Tool for simple hashing, base64 encoding and decoding using python.
+CLI Tool for simple hashing, base64 encoding and decoding using python.
+
+![HEDTool](https://github.com/Fl0at1ngCaT/HEDTool/blob/main/resourses/HEDTool.png?raw=true "HEDTool")
 
 ## Installation
 
-- git clone https://github.com/Fl0at1ngCaT/HEDTool.git
+        git clone https://github.com/Fl0at1ngCaT/HEDTool.git
 
-- cd HEDTool
+        cd HEDTool
 
-- pip install -r requirements.txt
+        pip install -r requirements.txt
 
 
 ## Usage
