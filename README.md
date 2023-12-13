@@ -1,5 +1,5 @@
 # HEDTool
-CLI Tool for simple hashing, base64 encoding and decoding using python.
+Simple CLI Tool for hashing, base64 encoding and decoding using python.
 
 ![HEDTool](https://github.com/Fl0at1ngCaT/HEDTool/blob/main/resourses/HEDTool.png?raw=true "HEDTool")
 
