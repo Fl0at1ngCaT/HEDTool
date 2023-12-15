@@ -62,7 +62,6 @@ else:
     if args.encode:
         encoded = Encode(args.text)
         print(Fore.YELLOW + "Encoded String: " + Fore.CYAN + encoded)
-        print(sys.argv[:])
 
     if args.decode:
         decoded = Decode(args.text)
